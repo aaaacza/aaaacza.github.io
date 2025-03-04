@@ -1,0 +1,2 @@
+sitemap* filter=lfs diff=lfs merge=lfs -text
+google* filter=lfs diff=lfs merge=lfs -text
